@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:18510/posts/hellow-world/</loc>
+    <loc>http://localhost:14293/blog/posts/hellow-world/</loc>
     <lastmod>2026-02-16T07:24:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:18510/</loc>
+    <loc>http://localhost:14293/blog/</loc>
     <lastmod>2026-02-16T07:24:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:18510/posts/</loc>
+    <loc>http://localhost:14293/blog/posts/</loc>
     <lastmod>2026-02-16T07:24:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:18510/categories/</loc>
+    <loc>http://localhost:14293/blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:18510/tags/</loc>
+    <loc>http://localhost:14293/blog/tags/</loc>
   </url>
 </urlset>
