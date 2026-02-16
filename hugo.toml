@@ -1,4 +1,12 @@
-baseURL = 'https://mouthless-mutters.github.io/blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://mouthless-mutters.github.io/blog/"
+languageCode = "en-us"
+title = "Mouthless Mutters"
 theme = "ananke"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  description = "Notes on security, AI, engineering, and grappling."
+  author = "Jake"
+  show_reading_time = true
