@@ -7,6 +7,6 @@ theme = "ananke"
   pagerSize = 10
 
 [params]
-  description = "Notes on security, AI, engineering, and grappling."
+  description = "Notes on grappling, cyber security, and tech."
   author = "Jake"
   show_reading_time = true
