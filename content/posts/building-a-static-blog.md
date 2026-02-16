@@ -1,5 +1,5 @@
 +++
-title = Building a Static Blog with Hugo and GitHub Pages"
+title = "Building a Static Blog with Hugo and GitHub Pages"
 date = "2026-02-16T09:00:00-05:00"
 draft = false
 +++
