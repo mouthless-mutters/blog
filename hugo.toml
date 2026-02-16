@@ -3,10 +3,11 @@ languageCode = "en-us"
 title = "Mouthless Mutters"
 theme = "ananke"
 
+# Pagination
 [pagination]
   pagerSize = 10
 
 [params]
-  description = "Notes on grappling, cyber security, and tech."
+  description = "Notes on things I feel like writing about."
   author = "Jake"
   show_reading_time = true
