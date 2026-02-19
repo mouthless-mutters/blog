@@ -124,7 +124,3 @@ This setup provides:
 - Automatic HTTPS
 - Git-based publishing workflow
 - Full control over the domain
-
-
-TODO
-
