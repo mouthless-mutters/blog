@@ -28,11 +28,15 @@ Then I created a table for video metadata:
 
 The schema is intentionally simple:
 
--name
--size
--content_type
--time_created
--updated
+name
+
+size
+
+content_type
+
+time_created
+
+updated
 
 ## Step 3: Write the Cloud Function (Gen 2)
 
@@ -40,7 +44,8 @@ I used a 2nd-gen Cloud Function, which runs on Cloud Run and uses Eventarc under
 
 Here is the function code (main.py):
 
-```import functions_framework
+```
+import functions_framework
 from google.cloud import bigquery
 
 client = bigquery.Client()
@@ -78,9 +83,11 @@ google-cloud-bigquery
 
 Cloud Functions Gen 2 involves:
 
--Eventarc
--Cloud Run
--A service account
+Eventarc
+
+Cloud Run
+
+A service account
 
 I granted BigQuery permissions to the default compute service account:
 
