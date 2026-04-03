@@ -195,7 +195,7 @@ Because Cloud Run containers are stateless, a fresh deployment started with an e
 
 ## Final Result
 
-- Live at: https://bjj-event-tracker-615762110730.northamerica-northeast1.run.app
+- Live at: https://bjj-event-tracker-615762110730.northamerica-northeast1.run.app. Will eventually move it to a different domain.
 - Events from: FloGrappling (WNO, IBJJF, Fight-to-Win, etc.), PGF, UFC Fight Pass (UFC BJJ, CFFC BJJ, etc.)
 - Ingestion runs daily at 06:00 UTC via Cloud Scheduler + Cloud Run Job
 - SQLite persisted to Cloud Storage between runs
