@@ -1,6 +1,6 @@
 +++
 title = "Building and Deploying a BJJ Event Tracker with GitHub Copilot and GCP"
-date = "2026-04-02T21:00:00-05:00"
+date = "2026-04-02T09:00:00-05:00"
 draft = false
 +++
 
